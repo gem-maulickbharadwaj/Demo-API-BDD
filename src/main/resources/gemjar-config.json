@@ -1,10 +1,10 @@
 {
-  "environment": "beta",
+  "environment": "prod",
   "projectName": "GEMECO-API-JV-BDD",
   "token": "Bearer 5a04138da05dcd31f23abe52acff8c3780445d025fad35b4f1a7c7abbdea353c",
   "username": "maulick_test",
-  "gemjarUserName": "maulick.b",
-  "gemjarToken": "713f8683-66e6-465d-9f1b-bc071158c5381669698039308",
+  "gemjarUserName": "geco-maulik",
+  "gemjarToken": "f04ed8bd-fa19-4347-8aa1-43d39d56e0fb1676026040152",
   "gemjarSubID": "test_id",
   "glueCode": "com.qa.gemini.stepDefinition",
   "feature": "src/main/resources/features/Test_API.feature",
